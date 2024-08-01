@@ -1,0 +1,15 @@
+
+.oldman{
+    height: 600px;
+    border-radius: 50%;
+    transform: translateY(120px);
+    padding-right:30px ;
+    background-color: rgba(226, 143, 0, 0.916);
+}
+.holding-hands{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transform: translateX(-220px);
+    z-index: 2;
+}
